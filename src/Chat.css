@@ -1,5 +1,7 @@
 .chat {
     flex: 1;
+    position: relative;
+    bottom: 0;
 }
 
 .chat__header {
